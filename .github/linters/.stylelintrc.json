@@ -1,0 +1,6 @@
+{
+  "ignoreFiles": [
+    "styles/ignored/wildcards/*.css",
+    "styles/ignored/specific-file.css"
+  ]
+}
