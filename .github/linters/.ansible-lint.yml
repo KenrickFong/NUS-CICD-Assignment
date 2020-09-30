@@ -1,0 +1,4 @@
+- name: this would typically fire GitHasVersionRule 401
+  git: src=/path/to/git/repo dest=checkout
+  tags:
+    - skip_ansible_lint
